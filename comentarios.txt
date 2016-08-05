@@ -1,1 +1,53 @@
-Testando...
+APS
+- Revisão O.O
+- Swing
+- Spark
+===================
+-Padrões de Projeto
+- Singleton
+- Factory
+
+- Strategy 
+- Template Method
+- Adapter
+- Proxy
+
+
+
+- Gof
+- Use a cabeça
+- Padrões Arquiteturais
+- Persistência
+- dao - ORM
+- active record
+- repository
+
+Avaliações:
+-> Trabalhos
+-> Prova
+
+Atendimento:
+-> segunda toda a tarde
+-> terça toda a tarde e
+-> terça na aula
+
+igoravilapereira.github.io
+igor.pereira@riogrande.ifrs.edu.br
+repositório git
+
+ide
+- netbeans
+- jar jdbc
+- postgresql
+
+
+
+
+
+
+
+
+
+
+
+
