@@ -10,6 +10,10 @@ package negocio;
  * @author iapereira
  */
 public interface Duck {
-    void quack();
-    void fly();
+    default void quack() {
+      System.out.println("<silence>");
+    }
+    default void fly() {
+      System.out.println("I don't fly, yet!");
+    }
 }

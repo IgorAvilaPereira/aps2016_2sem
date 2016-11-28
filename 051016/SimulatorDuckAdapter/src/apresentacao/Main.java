@@ -50,6 +50,12 @@ public class Main {
         if (turkeyAdapter instanceof Duck){
             System.out.println("Enganei o bobo na casca do ovo...");
         }
+        
+        Duck nope = new Duck() {
+        };
+        
+        nope.quack();
+        nope.fly();
     }
     
 }
